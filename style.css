@@ -1,0 +1,98 @@
+body {
+    background-color: 23272a;
+    color: springgreen;
+    font-family: arial;
+    text-align:center;
+background-image:url("https://i.imgur.com/7QBHt1z.jpeg");
+    background-size:cover;
+    margin:0px;
+}
+
+
+.AboutMe {
+    color:23272a;
+    background:linear-gradient(45deg,pink,plum);
+    padding:15px;
+    margin:0 100px 0 100px;
+    border-radius:50px;
+    
+}
+
+
+button {
+    border:none;
+    width:100%;
+    border-radius:50px;
+}
+
+
+.ButtonSize {
+    font-size:50px;    
+    display:inline;    
+}
+
+
+.Twitch {
+    background:linear-gradient(180deg,purple,mediumpurple);    
+}   
+
+
+.Pinterest {
+    background:linear-gradient(360deg,#E60023,#FF9292);
+}
+
+
+.Snapchat {
+    background:linear-gradient(180deg,#FFFC00,#FFFACD);
+}
+
+
+.AniList {
+    background:linear-gradient(360deg,#00aaff,#A0DFFF);
+}
+
+
+.Spotify {
+    background:linear-gradient(180deg,#1DB954,springgreen);
+}
+
+
+.YouTube {
+    background:linear-gradient(360deg,#FF0000,salmon);
+}
+
+
+.Twitter {
+    background:linear-gradient(180deg,#1DA1F2,lightskyblue);
+}
+
+
+.Instagram {
+    background:linear-gradient(360deg,#dd2a7b,hotpink);
+}
+
+
+.TikTok {
+    background:linear-gradient(180deg,cyan,hotpink);
+}
+
+
+.SocialMedia {
+    border-radius:25px;    
+}
+
+
+.FollowMe {
+    position:absolute;
+    top:150px;
+    left:25px;
+    background-color:salmon;
+    margin:15px 150px 0 150px;
+}
+
+
+.Range {
+    filter:blur(5px);
+}
+
+
